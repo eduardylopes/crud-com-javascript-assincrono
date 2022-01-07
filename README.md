@@ -1,4 +1,4 @@
-# CRUDE - Cadastrar Clientes
+# CRUD - Cadastrar Clientes
 
 Esse crude é utilizado para cadastrar clientes em um sistema utilizando json.db como banco de dados.
 
