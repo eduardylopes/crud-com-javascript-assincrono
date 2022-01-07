@@ -1,7 +1,7 @@
-abrir a pasta admin no vscode e 
-rodar o json server: 
-```js
-json-server --watch db.json
-```
+# CRUDE - Cadastrar Clientes
 
-Rodar: browser-sync start --server --file . --host --port 5000 --startPath admin/telas/lista_cliente.html
+Esse crude é utilizado para cadastrar clientes em um sistema utilizando json.db como banco de dados.
+
+## Como rodar o projeto
+
+Primeiramente é necessário ter o node js instalado, com o node instalado, clone o projeto com `git clone https://github.com/eduardylopes/crud-com-javascript-assincrono`, após clonar o projeto, no console do seu editor de código digite o seguinte comando `npm install` para instalar todas as dependencias, e em seguida use `json-server --watch db.json` para iniciar o json server.
